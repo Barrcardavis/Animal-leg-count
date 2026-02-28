@@ -2,6 +2,7 @@
 
 This diagram shows the logic used in the `countFourLeggedAnimals` function.
 
+'''text
 Start
 ↓
 Input: animals[]
@@ -19,3 +20,4 @@ count++     continue
 End loop
 ↓
 Return count
+'''
